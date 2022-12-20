@@ -1,6 +1,6 @@
 (footprint "JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61FC7341)
+  (tedit 6382CA92)
   (descr "JST SH series connector, BM06B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST SH side entry")
   (attr smd)
